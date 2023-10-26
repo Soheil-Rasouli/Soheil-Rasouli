@@ -1,6 +1,5 @@
 # 🚶‍♂️ About Me:
 🔭🌱🌌 happy programmer, that likes to learn more and more
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
 
 
 ## 🌐 Socials:
